@@ -2,8 +2,8 @@
 
 ## 1. Thông tin cá nhân và nhóm
 
-- **MHV:** 2A202602393
-- **Họ tên:** Đinh Trường An
+- **MHV:** 2A202602612
+- **Họ tên:** Hoàng Anh Tài
 - **Tên nhóm:** Tomorrow
 - **Thành viên:** Đinh Trường An · Trần Phạm Thái Vũ · Hoàng Anh Tài
 - **Case:** A — AI Tutor: Diagnostic Refresher
