@@ -168,6 +168,7 @@ Brainstorm ít nhất 5 hướng giải quyết sơ bộ (trong đó có các h�
 - **Đúng tiêu chí tuyển:** **Có** (Trong 7 ngày qua có tự học bài giảng Generative AI / Deep Learning trên YouTube và gặp nhiều khái niệm khó hiểu phải dừng lại xử lý).
 - **Trạng thái ghi âm:** Đã xin phép trước khi phỏng vấn, cam kết lưu hành nội bộ và được người tham gia đồng ý.
 - **Tài liệu kiểm chứng:** 
+  - File ghi chú phỏng vấn cá nhân: [`Interview/notes.md`](Interview/notes.md)
   - Audio recording: [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a) (thời lượng 04:41)
   - Full transcript: [`Interview/transcript.md`](Interview/transcript.md) (hoặc file [`Interview/Note.docx`](Interview/Note.docx))
 
@@ -222,7 +223,8 @@ AI đã hỗ trợ:
 - [x] Danh sách nhóm: Đinh Trường An, Trần Phạm Thái Vũ, Hoàng Anh Tài.
 - [x] **Hoàn thành Checkpoint 1 (Problem Hypothesis):** Đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence; có 2 giả thuyết cạnh tranh, Evidence Map và Parking Lot 5 hướng.
 - [x] **Hoàn thành Checkpoint 2 (Interview-ready):** Chốt Big 3, tiêu chí tuyển, kịch bản Mom Test, probe bank, 3 phản xạ xử lý lệch data và bảng phân công.
-- [x] **Hoàn thành Checkpoint 3 (Practice completed):** Đã phỏng vấn thật người ngoài nhóm, có file ghi âm [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a), bóc transcript đầy đủ [`Interview/transcript.md`](Interview/transcript.md) và điền bảng Interview Record chuẩn.
-- [x] **Hoàn thành Chặng 4 (Practice Reflection):** Tự rút kinh nghiệm chi tiết về kỹ thuật phỏng vấn và đối chiếu giả thuyết.
+- [x] **Hoàn thành Checkpoint 3 (Practice completed):** Đã phỏng vấn thật người ngoài nhóm, có file ghi âm [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a), bóc transcript đầy đủ [`Interview/transcript.md`](Interview/transcript.md), hoàn thiện [`Interview/notes.md`](Interview/notes.md) và điền bảng Interview Record chuẩn.
+- [x] **File interview/notes.md:** Đã hoàn thiện ghi chép đầy đủ cho lượt làm interviewer của Hoàng Anh Tài.
+- [x] **Hoàn thành Chặng 4 (Practice Reflection & Revision):** Tự rút kinh nghiệm chi tiết về kỹ thuật phỏng vấn, đối chiếu giả thuyết và cập nhật Guide bản 1.1.
 - [x] Khai báo minh bạch AI Support Log.
 - [x] Đã đồng bộ và đẩy toàn bộ lên GitHub cá nhân.
