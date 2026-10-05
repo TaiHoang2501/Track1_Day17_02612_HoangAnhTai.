@@ -92,8 +92,6 @@ Brainstorm ít nhất 5 hướng giải quyết sơ bộ (trong đó có các h�
 
 ### 3.1. Chốt Big 3 — Ba điều quan trọng nhất cần học
 
-Quay lại Evidence Map ở Chặng 1, nhóm chọn ra 3 điều quan trọng nhất cần kiểm chứng (trong đó Điều 3 là câu hỏi "đáng sợ" có thể làm lung lay giả thuyết):
-
 | Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
 |---|---|---|
 | **1. Hành vi và Workaround thật khi gặp bế tắc** | Khi gặp đoạn bài học/video không hiểu, học viên đã làm gì theo thứ tự? Có thực sự chụp màn hình, ghi chú Notion, tra cứu ngoài luồng không? Mất bao nhiêu thời gian? | Học viên chỉ lướt qua rồi bỏ mặc không tìm hiểu; hoặc các tài liệu/video hiện tại đã có chú thích sẵn cực kỳ dễ hiểu, không cần workaround. |
@@ -128,11 +126,11 @@ Quay lại Evidence Map ở Chặng 1, nhóm chọn ra 3 điều quan trọng nh
 - *Đào sâu hậu quả:* “Sau khi làm theo cách đó, bạn có quay lại làm tiếp bài được ngay không, hay phải dừng buổi học?”
 
 #### F. Ba phản xạ khi dữ liệu bị lệch
-1. **Khi nhận được lời khen / đồng tình:** (VD: *"Mình thấy có công cụ giải thích tại chỗ thì hay quá"*)  
+1. **Khi nhận được lời khen / đồng tình:**  
    → **Phản xạ Deflect:** Cảm ơn ngắn gọn, không xác nhận tính năng, kéo về quá khứ: *“Cảm ơn bạn. Thế ở lần gần nhất tự học hôm qua/hôm kia, bạn đã xử lý chỗ khó hiểu đó như thế nào?”*
-2. **Khi nhận câu trả lời chung chung / giả định tương lai:** (VD: *"Thường thì mình hay tìm trên mạng..."*)  
+2. **Khi nhận câu trả lời chung chung / giả định tương lai:**  
    → **Phản xạ Anchor:** Kéo về sự kiện cụ thể gần nhất: *“Lần gần nhất bạn tìm trên mạng là khi nào? Bạn có thể kể cụ thể lần đó bạn gõ từ khóa gì không?”*
-3. **Khi nhận ý tưởng hoặc feature request:** (VD: *"Ứng dụng nên có phần tóm tắt video ở dưới..."*)  
+3. **Khi nhận ý tưởng hoặc feature request:**  
    → **Phản xạ Dig:** Đào sâu vào pain hiện tại thay vì ghi nhận tính năng: *“Điều đó sẽ giúp bạn giải quyết được việc gì mà hiện tại các cách bạn đang làm chưa đáp ứng được?”*
 
 ### 3.3. Tự rà soát và Phân công nhóm
@@ -149,7 +147,7 @@ Quay lại Evidence Map ở Chặng 1, nhóm chọn ra 3 điều quan trọng nh
 #### Bảng phân công phỏng vấn nhóm Tomorrow:
 | Thành viên | Người được phỏng vấn | Tiêu chí phù hợp | Thời gian thực hiện | Bản ghi / Ghi chú |
 |---|---|---|---|---|
-| **Hoàng Anh Tài** | Học viên VinUniversity (nghiên cứu AI) | Đang tự học video YouTube về AI, gặp khó khăn về thuật ngữ trong 7 ngày qua | 04/10/2026 (09:38) | Đã lưu `Interview/Note.docx` và `Interview/VinUniversity.m4a` |
+| **Hoàng Anh Tài** | Học viên VinUniversity (nghiên cứu AI) | Đang tự học video YouTube về AI, gặp khó khăn về thuật ngữ trong 7 ngày qua | 04/10/2026 (09:38) | Đã lưu [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a) và [`Interview/transcript.md`](Interview/transcript.md) |
 | **Đinh Trường An** | Học viên khóa Data / Python | Tự học lập trình, gặp lỗi bài tập và thuật toán trong tuần qua | 04/10/2026 | Lưu trong hồ sơ nhóm |
 | **Trần Phạm Thái Vũ** | Học viên tự học trực tuyến | Tự học tài liệu chuyên ngành, thường xuyên tra cứu ngoài | 04/10/2026 | Lưu trong hồ sơ nhóm |
 
@@ -163,41 +161,68 @@ Quay lại Evidence Map ở Chặng 1, nhóm chọn ra 3 điều quan trọng nh
 
 ---
 
-## 4. Practice Reflection (Hoàng Anh Tài)
+## 4. Chặng 3 — Kết quả luyện phỏng vấn (Checkpoint 3: Practice Completed)
 
-1. **Câu hỏi nào giúp người được phỏng vấn kể chuyện cụ thể?**
-   - Câu hỏi *“Trong buổi đó, đoạn nào chiếm nhiều thời gian hoặc sự chú ý của bạn nhất?”* khiến người được phỏng vấn kể chi tiết về việc gặp thuật ngữ chưa quen, cách chụp màn hình note sang Notion, và cách gửi ảnh sang ChatGPT để hỏi đáp.
-2. **Tôi cần làm tốt hơn điều gì?**
-   - Cần tránh các câu hỏi đóng hoặc câu hỏi dẫn dắt (như hỏi xem ChatGPT trả lời có làm clear hơn không).
-   - Cần đào sâu hơn vào một tình huống duy nhất cụ thể: lần đó diễn ra khi nào, mất bao nhiêu phút, chi phí thời gian bỏ ra thế nào và cuối cùng có hoàn thành được bài học đó không.
-3. **Nhóm đã sửa guide thế nào sau buổi luyện?**
-   - Nhóm chuyển câu mở đầu sang một buổi học hoặc bài tập gần đây nói chung.
-   - Thay câu so sánh khó hiểu bằng câu hỏi về kết quả so với dự định.
-   - Thêm probe trung tính dựa trên chính lời kể của interviewee để đào sâu hành động thực tế.
+### 4.1. Thông tin buổi phỏng vấn cá nhân (Hoàng Anh Tài)
+- **Mã người tham gia:** P-01 (Sinh viên / Học viên tự học tại VinUniversity).
+- **Đúng tiêu chí tuyển:** **Có** (Trong 7 ngày qua có tự học bài giảng Generative AI / Deep Learning trên YouTube và gặp nhiều khái niệm khó hiểu phải dừng lại xử lý).
+- **Trạng thái ghi âm:** Đã xin phép trước khi phỏng vấn, cam kết lưu hành nội bộ và được người tham gia đồng ý.
+- **Tài liệu kiểm chứng:** 
+  - Audio recording: [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a) (thời lượng 04:41)
+  - Full transcript: [`Interview/transcript.md`](Interview/transcript.md) (hoặc file [`Interview/Note.docx`](Interview/Note.docx))
+
+### 4.2. Interview Record
+
+| Điều cần giữ lại | Ghi chép thực tế từ cuộc phỏng vấn (Facts & Exact Quotes) |
+|---|---|
+| **Câu chuyện gần nhất: User đang ở đâu và cố làm gì?** | Trong 7 ngày qua, người học xem các bài giảng video công khai trên YouTube về chủ đề *Generative AI / Deep Learning* để hệ thống hóa kiến thức phục vụ làm dự án. |
+| **User đã thực sự làm gì (Trình tự hành vi)?** | 1. Xem trước phần mục lục / mô tả (description/subscription) của video để nắm khung tổng thể.<br>2. Bắt đầu nghe và xem chi tiết từng phần bài giảng.<br>3. Khi gặp khái niệm hoặc slide không hiểu, dừng video lại.<br>4. Chụp ảnh màn hình (screenshot) slide bài giảng chứa phần kiến thức bị vướng.<br>5. Mở ứng dụng Notion, paste hình ảnh vào và ghi chú lại thông tin đang thắc mắc. |
+| **Khó khăn và Workaround đã dùng** | **Workaround:** Mở ChatGPT, upload ảnh chụp màn hình slide bài giảng lên và prompt yêu cầu ChatGPT giải thích lại nội dung trên slide đó. |
+| **Hậu quả hoặc chi phí** | - Mất thời gian thao tác trung gian (chụp màn hình → note vào Notion → chuyển tab sang ChatGPT).<br>- Bị đứt mạch xem video bài giảng.<br>- **Hạn chế lớn của Workaround:** ChatGPT chỉ giải thích cô lập nội dung trong đúng 1 bức ảnh chụp slide đó, không nắm được toàn bộ mạch bài giảng video trước đó nên câu trả lời bị hạn chế ngữ cảnh tổng thể. |
+| **Điều bất ngờ, trái giả thuyết hoặc Exact Quote** | - **Exact Quote về giới hạn của Workaround hiện tại:** *“Nó sẽ chỉ trả lời cho khuôn khổ slide thôi. Nó không thể nói hết được tất cả những cái mà mình đã học trong bài... Đấy là hạn chế.”*<br>- **Điều bất ngờ:** Người học chủ động hệ thống hóa bài học rất kỹ trước khi xem (đọc mục lục/tóm tắt trước), nhưng khi vướng thì vẫn bị phụ thuộc vào ảnh chụp slide rời rạc. Feature request mà người học nêu ra ở cuối là mong muốn có tóm tắt ngữ cảnh video sâu hơn. |
 
 ---
 
-## 5. AI Support Log
+## 5. Chặng 4 — Rút kinh nghiệm & Đánh giá (Practice Reflection)
+
+### 5.1. Practice Reflection cá nhân (Hoàng Anh Tài)
+
+1. **Câu hỏi nào giúp người được phỏng vấn kể chuyện cụ thể?**
+   - Câu hỏi *“Trong buổi đó, đoạn nào chiếm nhiều thời gian hoặc sự chú ý của bạn nhất?”* và việc đào sâu vào cách họ dùng Notion đã khiến người được phỏng vấn mô tả cặn kẽ trình tự thao tác (chụp màn hình, lưu Notion, đưa vào ChatGPT).
+2. **Tôi cần làm tốt hơn điều gì?**
+   - Tránh câu hỏi dẫn dắt/câu hỏi đóng: Ở phút 03:23, tôi đã hỏi *“bạn có thấy nó clear hơn không?”* — đây là câu hỏi dẫn dắt cảm xúc người dùng thay vì hỏi hành vi trung tính.
+   - Tránh hỏi ý kiến tương lai: Ở phút 03:57, tôi hỏi *“bạn mong muốn ứng dụng cải thiện điều gì?”*, dẫn đến người dùng đưa ra feature request về bản recap video thay vì kể về pain thật. Lẽ ra nên đào sâu: *“Lần gần nhất bạn dùng ChatGPT giải thích slide đó mất bao lâu và sau đó bạn có hiểu bài để tiếp tục không?”*
+3. **Nhóm đã sửa guide thế nào sau buổi luyện?**
+   - Chuyển câu mở đầu sang một buổi học hoặc bài tập gần đây nói chung.
+   - Thay câu so sánh khó hiểu bằng câu hỏi về kết quả so với dự định.
+   - Thêm probe trung tính nhắc lại đúng từ ngữ của interviewee để đào sâu hành động, không gợi ý cách xử lý.
+
+### 5.2. Đánh giá sơ bộ đối chiếu với Giả thuyết
+
+- **Workaround có thật:** Học viên thực sự có workaround tốn công (chụp màn hình slide → paste Notion → gửi ChatGPT).
+- **Xác nhận Pain B (Chi phí chuyển ngữ cảnh & mất context):** Phỏng vấn xác nhận rõ ràng rằng việc rời bài học đi hỏi AI ngoài làm mất ngữ cảnh bài giảng (*“ChatGPT chỉ trả lời trong khuôn khổ 1 slide, không hiểu toàn bộ bài video”*).
+- **Điều cần kiểm chứng thêm ở fieldwork:** Cần đào sâu hơn xem lỗ hổng thực sự nằm ở việc hổng kiến thức nền (Pain A) hay chỉ là do slide của giảng viên viết quá vắn tắt/khó hiểu.
+
+---
+
+## 6. AI Support Log
 
 AI đã hỗ trợ:
 - Tái cấu trúc và rà soát logic của Chặng 1 theo chuỗi: Solution → Change → Actor → Situation & Job → Pain → Evidence.
 - Thiết kế Chặng 2 theo chuẩn The Mom Test: chốt Big 3, viết script mở đầu trung tính, thiết kế probe bank và 3 phản xạ lệch data.
-- Rà soát độ trung tính của các câu hỏi trong Conversation Guide, loại bỏ các câu hỏi có tính định hướng hoặc hỏi tương lai.
-- Hỗ trợ định dạng và sắp xếp dữ liệu transcript phỏng vấn cá nhân thành Interview Record chuẩn.
-- *Cam kết:* AI không tạo dữ liệu phỏng vấn giả lập, không bịa đặt quote hay nội dung reflection của người phỏng vấn.
+- Chuẩn hóa Chặng 3: Bóc tách transcript cuộc phỏng vấn thật thành bảng chuẩn Interview Record (phân định rõ Facts, Workaround, Hậu quả và Exact Quote).
+- Hỗ trợ xây dựng bản tự phản tỉnh Practice Reflection của người phỏng vấn.
+- *Cam kết:* AI không tạo dữ liệu phỏng vấn giả lập, không bịa đặt quote hay nội dung reflection của người phỏng vấn. Toàn bộ trích dẫn và dữ kiện đều đối chiếu từ file ghi âm gốc `Interview/VinUniversity.m4a`.
 
 ---
 
-## 6. Tình trạng trước khi nộp
+## 7. Tình trạng trước khi nộp
 
 - [x] Tên nhóm: Tomorrow.
 - [x] Danh sách nhóm: Đinh Trường An, Trần Phạm Thái Vũ, Hoàng Anh Tài.
-- [x] Hoàn thành Checkpoint 1: Đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence.
-- [x] Hoàn thành Checkpoint 2: Interview-ready (Big 3, Recruitment check, Mom Test Guide, Probe bank, 3 phản xạ, Phân công).
-- [x] Có 2 pain hypothesis cạnh tranh và điều kiện bác bỏ giả thuyết.
-- [x] Có Solution Parking Lot với 5 hướng (gồm các hướng không dùng AI).
-- [x] Có Conversation Guide chuẩn The Mom Test sau buổi practice.
-- [x] Có Interview Record transcript và file ghi âm thực tế trong thư mục `Interview/`.
-- [x] Bản Practice Reflection chân thực từ buổi phỏng vấn.
+- [x] **Hoàn thành Checkpoint 1 (Problem Hypothesis):** Đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence; có 2 giả thuyết cạnh tranh, Evidence Map và Parking Lot 5 hướng.
+- [x] **Hoàn thành Checkpoint 2 (Interview-ready):** Chốt Big 3, tiêu chí tuyển, kịch bản Mom Test, probe bank, 3 phản xạ xử lý lệch data và bảng phân công.
+- [x] **Hoàn thành Checkpoint 3 (Practice completed):** Đã phỏng vấn thật người ngoài nhóm, có file ghi âm [`Interview/VinUniversity.m4a`](Interview/VinUniversity.m4a), bóc transcript đầy đủ [`Interview/transcript.md`](Interview/transcript.md) và điền bảng Interview Record chuẩn.
+- [x] **Hoàn thành Chặng 4 (Practice Reflection):** Tự rút kinh nghiệm chi tiết về kỹ thuật phỏng vấn và đối chiếu giả thuyết.
 - [x] Khai báo minh bạch AI Support Log.
-- [x] Đã đồng bộ và đẩy lên GitHub cá nhân.
+- [x] Đã đồng bộ và đẩy toàn bộ lên GitHub cá nhân.
