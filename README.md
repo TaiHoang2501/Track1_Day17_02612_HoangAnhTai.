@@ -88,19 +88,78 @@ Brainstorm ít nhất 5 hướng giải quyết sơ bộ (trong đó có các h�
 
 ---
 
-## 3. Conversation Guide — bản 1.1 sau khi tổng hợp practice
+## 3. Chặng 2 — Chuẩn bị phỏng vấn (Checkpoint 2: Interview-ready)
 
-Các câu hỏi được mở rộng theo trải nghiệm học tập nói chung để không tiết lộ case hoặc giả thuyết. Hỏi từng câu theo thứ tự, không gợi ví dụ trước.
+### 3.1. Chốt Big 3 — Ba điều quan trọng nhất cần học
 
-1. “Kể mình nghe về lần gần đây bạn tự học hoặc làm một bài tập. Bạn định hoàn thành điều gì?”
-2. “Bạn kể lại từng bước từ lúc bắt đầu đến khi dừng nhé. Bạn làm gì trước, rồi làm gì tiếp?”
-3. “Trong quá trình đó, đoạn nào chiếm nhiều thời gian hoặc sự chú ý nhất, nếu có?”
-4. “Bạn vừa nhắc đến [lặp lại đúng từ/cách làm của người tham gia]. Bạn kể rõ hơn đoạn đó được không?”
-5. “Cuối cùng chuyện diễn ra thế nào so với điều bạn định làm?”
+Quay lại Evidence Map ở Chặng 1, nhóm chọn ra 3 điều quan trọng nhất cần kiểm chứng (trong đó Điều 3 là câu hỏi "đáng sợ" có thể làm lung lay giả thuyết):
 
-**Follow-up trung tính khi cần:** “Rồi chuyện gì xảy ra tiếp theo?” / “Bạn kể cụ thể hơn được không?” / “Mất khoảng bao lâu?” Chỉ hỏi thời gian nếu chưa được kể; không gợi sẵn cách xử lý.
+| Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
+|---|---|---|
+| **1. Hành vi và Workaround thật khi gặp bế tắc** | Khi gặp đoạn bài học/video không hiểu, học viên đã làm gì theo thứ tự? Có thực sự chụp màn hình, ghi chú Notion, tra cứu ngoài luồng không? Mất bao nhiêu thời gian? | Học viên chỉ lướt qua rồi bỏ mặc không tìm hiểu; hoặc các tài liệu/video hiện tại đã có chú thích sẵn cực kỳ dễ hiểu, không cần workaround. |
+| **2. Bản chất của Barrier (Pain A hay Pain B)** | Điểm khó khăn lớn nhất là do **không biết mình hổng kiến thức tiên quyết nào** (Pain A) hay do **việc chuyển đổi qua lại giữa các công cụ tra cứu gây mất tập trung** (Pain B)? | Học viên biết rất rõ mình thiếu gì và việc mở tab ChatGPT hỏi mất chưa đầy 30 giây, không hề gây đứt mạch hay phiền toái. |
+| **3. Mức độ nghiêm trọng của hậu quả (Câu hỏi "đáng sợ")** | Việc không hiểu bài đó có dẫn đến hậu quả thực tế không (bỏ học, làm sai bài tập, trễ tiến độ)? Hay đây chỉ là bất tiện nhỏ mà học viên sẵn sàng chấp nhận? | **Nếu câu trả lời là:** Chỗ không hiểu đó không ảnh hưởng gì đến việc hoàn thành bài tập/mục tiêu, học viên vẫn đạt kết quả tốt mà không cần giải quyết triệt để chỗ nghẽn → *Pain không đủ lớn để làm sản phẩm.* |
 
-**Thay đổi sau practice và tổng hợp nhóm:** Guide mở đầu bằng một hoạt động học/bài tập cụ thể, không nêu trước “không hiểu” hay nguyên nhân. Câu so sánh mơ hồ được thay bằng câu hỏi về kết quả so với dự định. Bổ sung follow-up nhắc lại chính lời người tham gia để đào sâu hành động; chỉ hỏi cách kiểm tra nguồn nếu người tham gia tự nhắc việc đối chiếu.
+### 3.2. Thiết kế Conversation Guide (The Mom Test)
+
+#### A. Tiêu chí tuyển người & Recruitment check
+- **Tiêu chí tuyển người:** Chúng tôi cần nói chuyện với học viên đã **tự học trực tuyến (đọc tài liệu, xem video bài giảng hoặc làm bài tập công nghệ/lập trình) và từng gặp một phần bài chưa hiểu** trong vòng **7 ngày** gần đây.
+- **Recruitment check (câu hỏi sàng lọc nhanh):**
+  > *“Trong 7 ngày vừa qua, bạn có buổi tự học hoặc làm bài tập nào mà gặp một khái niệm/đoạn code chưa hiểu và phải dừng lại tìm cách xử lý không?”* (Nếu có mới tiến hành phỏng vấn).
+
+#### B. Lời mở đầu (Briefing)
+> *“Chào bạn, cảm ơn bạn đã dành thời gian. Nhóm mình đang tìm hiểu về trải nghiệm tự học và những thói quen thực tế của mọi người khi gặp nội dung chưa rõ trong quá trình học tập. Cuộc trò chuyện này hoàn toàn nhằm mục đích học hỏi từ câu chuyện thực tế của bạn, không có câu trả lời đúng hay sai, và mình không bán hay giới thiệu bất kỳ tính năng/sản phẩm nào. Bạn có thể bỏ qua bất kỳ câu hỏi nào hoặc dừng lại bất cứ lúc nào. Mình xin phép được ghi âm lại buổi nói chuyện để tiện ghi chép nội bộ và cam kết không chia sẻ công khai bản ghi này nhé.”*
+
+#### C. Story Opener
+> **“Kể mình nghe về lần gần nhất trong 7 ngày qua bạn tự học một bài mới hoặc làm bài tập. Hôm đó câu chuyện bắt đầu như thế nào và bạn định hoàn thành điều gì?”**
+
+#### D. Big 3 Questions (Ánh xạ trực tiếp với Big 3)
+
+| Điều cần học | Câu hỏi sẽ dùng (Quá khứ & Thực tế) |
+|---|---|
+| **1. Hành vi & Workaround** | *“Từ lúc bắt đầu gặp đoạn chưa hiểu đó cho đến lúc dừng lại, bạn đã làm những gì theo thứ tự? Đoạn nào chiếm nhiều thời gian hoặc sự chú ý nhất?”* |
+| **2. Bản chất Barrier (Pain A vs B)** | *“Khi dừng lại ở đoạn đó, điều gì cản trở bạn tiếp tục nhất: là do không rõ phần kiến thức nào trước đó chưa nắm chắc, hay do việc tìm kiếm tài liệu giải thích bên ngoài bị phân mảnh?”* |
+| **3. Hậu quả thực tế (Đáng sợ)** | *“Cuối cùng buổi học đó kết thúc thế nào so với dự định ban đầu của bạn? Việc vướng mắc đó có làm thay đổi kết quả làm bài tập hay tiến độ học hôm đó không?”* |
+
+#### E. Probe Bank (Đào sâu Hành vi — Workaround — Hậu quả)
+- *Đào sâu trình tự:* “Lúc đó chuyện gì xảy ra tiếp theo?” / “Sau khi chụp màn hình/mở tab mới, bạn làm gì tiếp?”
+- *Đào sâu chi phí/thời gian:* “Đoạn tra cứu đó mất khoảng bao nhiêu phút?” / “Bạn có phải xem đi xem lại video nhiều lần không?”
+- *Đào sâu workaround:* “Bạn đã thử cách nào khác ngoài ChatGPT/Notion chưa?” / “Vì sao bạn lại chọn cách đó mà không hỏi giảng viên/bạn học?”
+- *Đào sâu hậu quả:* “Sau khi làm theo cách đó, bạn có quay lại làm tiếp bài được ngay không, hay phải dừng buổi học?”
+
+#### F. Ba phản xạ khi dữ liệu bị lệch
+1. **Khi nhận được lời khen / đồng tình:** (VD: *"Mình thấy có công cụ giải thích tại chỗ thì hay quá"*)  
+   → **Phản xạ Deflect:** Cảm ơn ngắn gọn, không xác nhận tính năng, kéo về quá khứ: *“Cảm ơn bạn. Thế ở lần gần nhất tự học hôm qua/hôm kia, bạn đã xử lý chỗ khó hiểu đó như thế nào?”*
+2. **Khi nhận câu trả lời chung chung / giả định tương lai:** (VD: *"Thường thì mình hay tìm trên mạng..."*)  
+   → **Phản xạ Anchor:** Kéo về sự kiện cụ thể gần nhất: *“Lần gần nhất bạn tìm trên mạng là khi nào? Bạn có thể kể cụ thể lần đó bạn gõ từ khóa gì không?”*
+3. **Khi nhận ý tưởng hoặc feature request:** (VD: *"Ứng dụng nên có phần tóm tắt video ở dưới..."*)  
+   → **Phản xạ Dig:** Đào sâu vào pain hiện tại thay vì ghi nhận tính năng: *“Điều đó sẽ giúp bạn giải quyết được việc gì mà hiện tại các cách bạn đang làm chưa đáp ứng được?”*
+
+### 3.3. Tự rà soát và Phân công nhóm
+
+#### Checklist tự rà soát (7 câu hỏi kiểm tra):
+- [x] Không có câu hỏi nào để lộ giải pháp nút bấm hay AI Tutor.
+- [x] Không hỏi ý kiến phỏng đoán tương lai hay hỏi người dùng "có muốn một tính năng như vậy không".
+- [x] Story opener đã neo chính xác vào "lần gần nhất trong 7 ngày qua".
+- [x] Ba câu hỏi chính khớp 1-1 với 3 điều cần học (Big 3).
+- [x] Đã có câu hỏi kiểm chứng mức độ nghiêm trọng của hậu quả (có thể làm yếu giả thuyết).
+- [x] Người tham gia phỏng vấn đáp ứng đúng tiêu chí tự học có gặp khó khăn gần đây.
+- [x] Phân chia vai trò rõ ràng, mỗi thành viên phỏng vấn một người ngoài nhóm.
+
+#### Bảng phân công phỏng vấn nhóm Tomorrow:
+| Thành viên | Người được phỏng vấn | Tiêu chí phù hợp | Thời gian thực hiện | Bản ghi / Ghi chú |
+|---|---|---|---|---|
+| **Hoàng Anh Tài** | Học viên VinUniversity (nghiên cứu AI) | Đang tự học video YouTube về AI, gặp khó khăn về thuật ngữ trong 7 ngày qua | 04/10/2026 (09:38) | Đã lưu `Interview/Note.docx` và `Interview/VinUniversity.m4a` |
+| **Đinh Trường An** | Học viên khóa Data / Python | Tự học lập trình, gặp lỗi bài tập và thuật toán trong tuần qua | 04/10/2026 | Lưu trong hồ sơ nhóm |
+| **Trần Phạm Thái Vũ** | Học viên tự học trực tuyến | Tự học tài liệu chuyên ngành, thường xuyên tra cứu ngoài | 04/10/2026 | Lưu trong hồ sơ nhóm |
+
+### 3.4. Bảng tổng hợp thay đổi của Guide sau buổi luyện tập (Bản 1.1)
+
+| Câu hỏi / Probe ban đầu | Vấn đề nhận ra khi thực hành | Câu hỏi / Probe đã sửa đổi (Bản 1.1) |
+|---|---|---|
+| *“Khi không hiểu bài bạn làm thế nào?”* | Quá chung chung, dễ gợi ý câu trả lời lý thuyết hoặc theo thói quen giả định. | Đổi thành Story Opener: *“Kể mình nghe về lần gần đây bạn tự học hoặc làm một bài tập. Bạn định hoàn thành điều gì?”* |
+| *“So với các buổi học khác thì buổi này thế nào?”* | Mơ hồ, khiến người được phỏng vấn bối rối không biết so sánh khía cạnh nào. | Đổi thành: *“Cuối cùng chuyện diễn ra thế nào so với điều bạn định làm?”* |
+| *“ChatGPT giải thích xong bạn thấy có clear hơn không?”* | Câu hỏi đóng, mang tính dẫn dắt và gợi ý đánh giá. | Thay bằng probe trung tính: *“Bạn vừa nhắc đến [cách làm]. Bạn kể rõ hơn đoạn đó được không? Mất khoảng bao lâu?”* |
 
 ---
 
@@ -122,6 +181,7 @@ Các câu hỏi được mở rộng theo trải nghiệm học tập nói chung
 
 AI đã hỗ trợ:
 - Tái cấu trúc và rà soát logic của Chặng 1 theo chuỗi: Solution → Change → Actor → Situation & Job → Pain → Evidence.
+- Thiết kế Chặng 2 theo chuẩn The Mom Test: chốt Big 3, viết script mở đầu trung tính, thiết kế probe bank và 3 phản xạ lệch data.
 - Rà soát độ trung tính của các câu hỏi trong Conversation Guide, loại bỏ các câu hỏi có tính định hướng hoặc hỏi tương lai.
 - Hỗ trợ định dạng và sắp xếp dữ liệu transcript phỏng vấn cá nhân thành Interview Record chuẩn.
 - *Cam kết:* AI không tạo dữ liệu phỏng vấn giả lập, không bịa đặt quote hay nội dung reflection của người phỏng vấn.
@@ -133,6 +193,7 @@ AI đã hỗ trợ:
 - [x] Tên nhóm: Tomorrow.
 - [x] Danh sách nhóm: Đinh Trường An, Trần Phạm Thái Vũ, Hoàng Anh Tài.
 - [x] Hoàn thành Checkpoint 1: Đủ chuỗi Solution → Change → Actor → Situation & Job → Pain → Evidence.
+- [x] Hoàn thành Checkpoint 2: Interview-ready (Big 3, Recruitment check, Mom Test Guide, Probe bank, 3 phản xạ, Phân công).
 - [x] Có 2 pain hypothesis cạnh tranh và điều kiện bác bỏ giả thuyết.
 - [x] Có Solution Parking Lot với 5 hướng (gồm các hướng không dùng AI).
 - [x] Có Conversation Guide chuẩn The Mom Test sau buổi practice.
